@@ -1,6 +1,8 @@
 # wxai
 微信AI聊天，可根据人替换prompt
+
 安装环境requirement.txt
+
 使用控制台来到你的python环境
 使用命令pip install -r requirements.txt
 等待安装完成即可
